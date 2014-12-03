@@ -4,9 +4,9 @@ Here is some regular text
 
 * bullet 1
 * bullet 2
-** bultet 3
-** bullet 4
+* bullet 3
+* bullet 4
 
 [Link to Google](http://www.google.com)
 
-More text.
+More text. :sparkling_heart:
