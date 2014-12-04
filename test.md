@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Elim's test Repository
+=======
+### The Elim Repository
+>>>>>>> 670b0b733bf7ca24f282e9360536f0e2dabc1fda
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
